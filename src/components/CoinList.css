@@ -1,0 +1,24 @@
+
+
+thead th:nth-child(1) {
+    width: 30%;
+}
+
+thead th:nth-child(2) {
+    width: 20%;
+}
+
+thead th:nth-child(3) {
+    width: 15%;
+}
+
+thead th:nth-child(4) {
+    width: 17.5%;
+}
+th {
+    letter-spacing: 2px;
+}
+
+td {
+    letter-spacing: 1px;
+}
